@@ -1,0 +1,7 @@
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/yafetsegid/Desktop/Chat-App/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache

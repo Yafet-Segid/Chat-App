@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.sidebars {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+.btn {
+  padding: 5px;
+  font-size: 17px;
+  padding-right: 1em;
+  padding-left: 1em;
+  margin: 5px;
+  border-radius: 30px;
+  color: white;
+  background-color: #1e90ff;
+}
+
+.Display {
+  border: 1px solid black;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 1%;
+  padding: 1%;
+  height: 23em;
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: #e8e8e8;
+}
+
+.NameList {
+  border: 0.1px solid black;
+  padding: 5px;
+  margin: 5px;
+  /* border-radius: 30px; */
+  /* display: block; */
+  /* display: inline-block; */
+}
+
+.inputForm {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.input {
+  font-size: 20px;
+  padding: 5px;
+  width: 24em;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.sendBtn {
+  font-size: 22px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 0px 10px 10px 0px;
+  color: white;
+  background-color: #1e90ff;
+}
