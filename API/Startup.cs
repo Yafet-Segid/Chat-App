@@ -10,7 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Microsoft.OpenApi.Models;
+// using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.SpaServices;
+
+
 
 namespace API
 {
@@ -26,14 +29,13 @@ namespace API
             _configuration = configuration;
         }
 
-    
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
 
             services.AddControllers();
-            services.AddSpaStaticFiles( configuration: config :SpaStaticFilesoptions => 
+            services.AddSpaStaticFiles(  config  => 
             {
                 config.RootPath = "client/build";
             });
